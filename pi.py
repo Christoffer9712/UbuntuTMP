@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 def main(msg):
-    # message for new branch
+    # no message
     print(msg)
 
 # Calling main
